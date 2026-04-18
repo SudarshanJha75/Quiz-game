@@ -1,7 +1,7 @@
 
 ---
 
-# 🎮 2. Quiz Game
+# Quiz Game
 
 ```markdown id="rd2quiz"
 # 🎮 Quiz Game
